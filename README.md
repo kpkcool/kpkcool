@@ -4,7 +4,7 @@
 
 ## About Me 😁
 
-* 🔭 I’m currently working on Cognizant
+* 🔭 I’m currently working in Cognizant
 
 * 📱 iOS Developer / MacOS Developer
 
