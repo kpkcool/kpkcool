@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-# I'm extremely passionate about iOS Development
+# I'm extremely passionate about Mobile Application Development
 
 ## About Me 😁
 
-* 🔭 I’m currently working in Cognizant
+* 📱 iOS Developer (Good knowledge on MacOS Development)
 
-* 📱 iOS Developer / MacOS Developer
+* 🔭 I’m currently working in Cognizant
 
 * 🌱 I’m currently learning Swift UI
 
 * ✨ UI / UX Enthusiast
+
+* 🎯 Cross platform : Flutter 
 
 * ♥️ Exploring new places
 
