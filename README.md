@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm extremely passionate about Mobile Application Development
+# I'm extremely passionate about Mobile App Development
 
 ## About Me 😁
 
