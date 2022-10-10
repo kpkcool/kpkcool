@@ -6,9 +6,9 @@
 
 * 📱 iOS Developer (Good knowledge on MacOS Development)
 
-* 🔭 I’m currently working in Cognizant
+* 🔭 Currently working in Cognizant
 
-* 🌱 I’m currently learning Swift UI
+* 🌱 Currently learning Swift UI
 
 * ✨ UI / UX Enthusiast
 
