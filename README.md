@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-# I'm extremely passionate about Mobile App Development
+# I'm extremely passionate about iOS App Development
 
 ## About Me 😁
 
 * 📱 iOS Developer (Good knowledge on MacOS Development)
 
-* 🔭 Currently working in Cognizant
+* 🔭 Languages: Swift, SwiftUI
 
-* 🌱 Currently learning Swift UI
+* 🌱 Framework: UIKit, CoreData, Combine, MapKit, Core Animation
 
 * ✨ UI / UX Enthusiast
 
