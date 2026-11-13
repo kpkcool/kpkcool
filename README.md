@@ -14,7 +14,6 @@
 </p>
 
 I build fast, stable, well-tested iOS apps with **Swift, SwiftUI, UIKit and Swift Concurrency** — and ship my own apps to the App Store on the side.
-
 <br />
 
 ### Apps I've shipped
