@@ -48,11 +48,9 @@ I build fast, stable, well-tested iOS apps with **Swift, SwiftUI, UIKit and Swif
     </td>
   </tr>
 </table>
-
 <br />
 
 ### Impact at work
-
 - **~77%** lower Cart memory-leak rate at Walmart
 - **60%** fewer app hangs by moving work off the main thread with Swift Concurrency
 - **50 MB** smaller app across the Cart, Checkout and PAC modules
@@ -61,14 +59,12 @@ I build fast, stable, well-tested iOS apps with **Swift, SwiftUI, UIKit and Swif
 <br />
 
 ### Writing
-
 **[Why @MainActor Doesn't Mean Your Code Runs in the Background →](https://www.linkedin.com/pulse/why-mainactor-doesnt-mean-your-code-runs-background-k-praveen-kumar-rrkxf/)**<br />
 <sub>A Swift Concurrency deep dive on actor isolation and where your code actually runs.</sub>
 
-<br />
+<br /> 
 
 ### Stack
-
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
